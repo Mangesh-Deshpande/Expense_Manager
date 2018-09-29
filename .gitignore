@@ -11,10 +11,7 @@
 *.sass-cache
 node_modules/
 .tmp/
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
 
 # OS or Editor folders
 .DS_Store
